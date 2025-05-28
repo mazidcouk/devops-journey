@@ -1,86 +1,120 @@
-# My DevOps Journey: From Zero to DevOps Engineer 
+<!-- Banner or header image -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-banner-image.png" alt="banner" />
+</p>
 
-## About This Repository
-This repository documents my journey from a complete beginner to becoming a DevOps Engineer. I'm sharing my learning process, challenges, and achievements to help others who are on a similar path.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mazid;DevOps+Engineer;Cloud+Enthusiast" alt="Typing SVG" />
+</div>
 
-## Learning Schedule
-- **Frequency**: 4 days per week
-- **Time**: 5:00 AM - 8:00 AM
-- **Duration**: 3 hours per session
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=mazidcouk&label=Profile%20views&color=0077B5&style=flat" alt="Profile Views" />
+</div>
 
-## Learning Path
+<br/>
 
-### 1. Linux Fundamentals
-- [ ] Basic Linux commands
-- [ ] File system navigation
-- [ ] User and permission management
-- [ ] Process management
-- [ ] Shell scripting basics
+<div align="left">
+  <ul>
+    <li>My most recent project: End-to-End Xyz App Deployment using Docker, EC2 & ECR</li>
+    <li>Currently studying for AWS Certified Solutions Architect and Kubernetes</li>
+    <li>Fun fact: I can build a MVP application in 60 seconds with prompt engineering</li>
+  </ul>
+</div>
 
-### 2. Git & Version Control
-- [ ] Git basics
-- [ ] Branching and merging
-- [ ] Remote repositories
-- [ ] Git workflows
-- [ ] Collaboration practices
 
-### 3. Bash Scripting
-- [ ] Shell scripting fundamentals
-- [ ] Variables and control structures
-- [ ] Functions and modules
-- [ ] Error handling
-- [ ] Automation scripts
 
-### 4. Networking
-- [ ] OSI model
-- [ ] TCP/IP protocols
-- [ ] DNS and DHCP
-- [ ] Network security
-- [ ] Troubleshooting
+### Connect with me 
+<div align="left">
+  <a href="https://linkedin.com/in/mazidcouk">
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://medium.com/mazidcouk">
+    <img src="https://img.shields.io/badge/medium-0077B5?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
+  </a>
+  <a href="mailto:hello@mazid.co.uk">
+    <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-### 5. Containers & Docker
-- [ ] Container fundamentals
-- [ ] Docker basics
-- [ ] Docker networking
-- [ ] Docker Compose
-- [ ] Container orchestration basics
 
-### 6. AWS Cloud
-- [ ] AWS fundamentals
-- [ ] EC2 and VPC
-- [ ] S3 and storage
-- [ ] IAM and security
-- [ ] Cloud networking
 
-### 7. Infrastructure as Code (Terraform)
-- [ ] Terraform basics
-- [ ] Resource management
-- [ ] State management
-- [ ] Modules and workspaces
-- [ ] Best practices
+### Languages and Tools
 
-### 8. CI/CD
-- [ ] CI/CD concepts
-- [ ] Jenkins/GitHub Actions
-- [ ] Pipeline creation
-- [ ] Automated testing
-- [ ] Deployment strategies
+<div align="left">
+  <img src="https://img.shields.io/badge/AWS-0077B5?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-0077B5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-0077B5?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Bash-0077B5?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Terraform-0077B5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Ansible-0077B5?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+</div>
 
-### 9. Kubernetes
-- [ ] Kubernetes architecture
-- [ ] Pods and deployments
-- [ ] Services and networking
-- [ ] Storage and volumes
-- [ ] Security and RBAC
+<br />
 
-## Content Strategy
-- LinkedIn carousel posts
-- Short-form content
-- Progress updates
-- Technical tutorials
-- Challenges and solutions
 
-## Repository Structure
+
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="width: 400px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=mazidcouk&show_icons=true&theme=default&title_color=0077B5&text_color=0077B5&icon_color=0077B5&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+    </div>
+    <div style="width: 400px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazidcouk&theme=default&hide_border=true&stroke=0077B5&custom_title=GitHub%20Streak" alt="GitHub Streak" />
+    </div>
+    <div style="width: 400px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidcouk&layout=compact&theme=default&title_color=0077B5&text_color=0077B5&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" />
+    </div>
+  </div>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mazidcouk&theme=default&title_color=0077B5&text_color=0077B5&row=1&no-frame=true" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+### Contributing
+Feel free to:
+- Suggest improvements
+- Share resources
+- Provide feedback
+- Connect for collaboration
+
+<br />
+
+## My DevOps Journey
+
+<br />
+
+<div align="left">
+  <p>This repository documents my journey from a complete beginner to becoming a DevOps Engineer. I'm sharing my learning process, challenges, and achievements to help others who are on a similar path.</p>
+</div>
+
+<br />
+
+### Learning Schedule
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Frequency-4_days/week-0077B5?style=flat-square" alt="Frequency" />
+  <img src="https://img.shields.io/badge/Time-5:00_AM_/_6:30_AM-0077B5?style=flat-square" alt="Time" />
+  <img src="https://img.shields.io/badge/Duration-90_minutes-0077B5?style=flat-square" alt="Duration" />
+</div>
+
+
+<br />
+
+### Repository Structure
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Project_Structure-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="Structure" />
+</div>
+
+<br />
+
 ```
 .
 ├── README.md
@@ -102,24 +136,148 @@ This repository documents my journey from a complete beginner to becoming a DevO
     └── technical-articles/
 ```
 
-## Progress Tracking
-- [ ] Daily learning logs
-- [ ] Weekly progress reviews
-- [ ] Monthly milestone updates
-- [ ] Project completions
-- [ ] Certification progress
+<br />
 
-## Connect With Me
-- LinkedIn: www.linkedin.com/in/mazidcouk
+### Learning Path
+
+<div align="left">
+  <img src="https://img.shields.io/badge/1._Linux_Fundamentals-0077B5?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+</div>
+
+<ul>
+  <li>[ ] Basic Linux commands</li>
+  <li>[ ] File system navigation</li>
+  <li>[ ] User and permission management</li>
+  <li>[ ] Process management</li>
+  <li>[ ] Shell scripting basics</li>
+</ul>
+
+<br />
+
+<div align="left">
+  <img src="https://img.shields.io/badge/2._Git_&_Version_Control-0077B5?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
+
+<ul>
+  <li>[ ] Git basics</li>
+  <li>[ ] Branching and merging</li>
+  <li>[ ] Remote repositories</li>
+  <li>[ ] Git workflows</li>
+  <li>[ ] Collaboration practices</li>
+</ul>
+
+<br />
+
+<div align="left">
+  <img src="https://img.shields.io/badge/3._Bash_Scripting-0077B5?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</div>
+
+<ul>
+  <li>[ ] Shell scripting fundamentals</li>
+  <li>[ ] Variables and control structures</li>
+  <li>[ ] Functions and modules</li>
+  <li>[ ] Error handling</li>
+  <li>[ ] Automation scripts</li>
+</ul>
+
+<br />
+
+<div align="left">
+  <img src="https://img.shields.io/badge/4._Networking-0077B5?style=for-the-badge&logo=network&logoColor=white" alt="Networking" />
+</div>
+
+<ul>
+  <li>[ ] OSI model</li>
+  <li>[ ] TCP/IP protocols</li>
+  <li>[ ] DNS and DHCP</li>
+  <li>[ ] Network security</li>
+  <li>[ ] Troubleshooting</li>
+</ul>
+
+<br />
+
+<div align="left">
+  <img src="https://img.shields.io/badge/5._Containers_&_Docker-0077B5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
+
+<ul>
+  <li>[ ] Container fundamentals</li>
+  <li>[ ] Docker basics</li>
+  <li>[ ] Docker networking</li>
+  <li>[ ] Docker Compose</li>
+  <li>[ ] Container orchestration basics</li>
+</ul>
+
+<br />
+
+<div align="left">
+  <img src="https://img.shields.io/badge/6._AWS_Cloud-0077B5?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</div>
+
+<ul>
+  <li>[ ] AWS fundamentals</li>
+  <li>[ ] EC2 and VPC</li>
+  <li>[ ] S3 and storage</li>
+  <li>[ ] IAM and security</li>
+  <li>[ ] Cloud networking</li>
+</ul>
+
+<br />
+
+<div align="left">
+  <img src="https://img.shields.io/badge/7._Infrastructure_as_Code-0077B5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+</div>
+
+<ul>
+  <li>[ ] Terraform basics</li>
+  <li>[ ] Resource management</li>
+  <li>[ ] State management</li>
+  <li>[ ] Modules and workspaces</li>
+  <li>[ ] Best practices</li>
+</ul>
+
+<br />
+
+<div align="left">
+  <img src="https://img.shields.io/badge/8._CI/CD-0077B5?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+</div>
+
+<ul>
+  <li>[ ] CI/CD concepts</li>
+  <li>[ ] Jenkins/GitHub Actions</li>
+  <li>[ ] Pipeline creation</li>
+  <li>[ ] Automated testing</li>
+  <li>[ ] Deployment strategies</li>
+</ul>
+
+<br />
+
+<div align="left">
+  <img src="https://img.shields.io/badge/9._Kubernetes-0077B5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+</div>
+
+<ul>
+  <li>[ ] Kubernetes architecture</li>
+  <li>[ ] Pods and deployments</li>
+  <li>[ ] Services and networking</li>
+  <li>[ ] Storage and volumes</li>
+  <li>[ ] Security and RBAC</li>
+</ul>
 
 
-## Contributing
-Feel free to:
-- Suggest improvements
-- Share resources
-- Provide feedback
-- Connect for collaboration
+### Progress Tracking
 
 
 
-*"The journey of a thousand miles begins with a single step." - Lao Tzu* 
+<ul>
+
+  <li>[ ] Weekly progress reviews</li>
+  <li>[ ] Monthly milestone updates</li>
+  <li>[ ] Project completions</li>
+  <li>[ ] Certification progress</li>
+</ul>
+
+<br />
+<div align="center">
+  <em>"The journey of a thousand miles begins with a single step." - Lao Tzu</em>
+</div> 
