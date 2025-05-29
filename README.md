@@ -40,6 +40,8 @@
   <h3>Tech Stack</h3>
 </div>
 
+
+
 <div align="center" style="margin: 2rem 0;">
   <img src="https://img.shields.io/badge/AWS-0077B5?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -51,22 +53,18 @@
   <img src="https://img.shields.io/badge/Ansible-0077B5?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
 </div>
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mazidcouk&show_icons=true&theme=default&title_color=0077B5&text_color=0077B5&icon_color=0077B5&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="100%" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazidcouk&theme=default&hide_border=true&stroke=0077B5&custom_title=GitHub%20Streak" alt="GitHub Streak" width="100%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidcouk&layout=compact&theme=default&title_color=0077B5&text_color=0077B5&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" width="100%" />
-</div>
-
-<div style="text-align: center;">
-  <h3>Achievements</h3>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mazidcouk&theme=default&title_color=0077B5&text_color=0077B5&row=1&no-frame=true" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mazidcouk&show_icons=true&theme=default&title_color=0077B5&text_color=0077B5&icon_color=0077B5&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="80%" />
+  <br /><br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazidcouk&theme=default&hide_border=true&stroke=0077B5&custom_title=GitHub%20Streak" alt="GitHub Streak" width="80%" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidcouk&layout=compact&theme=default&title_color=0077B5&text_color=0077B5&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" width="80%" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=mazidcouk&theme=default&title_color=0077B5&text_color=0077B5&row=1&no-frame=true" alt="GitHub Trophies" width="80%" />
 </div>
 
 
@@ -236,10 +234,10 @@
   <h3>Contributing</h3>
   <p>Feel free to:</p>
   <ul style="list-style-type: none; padding: 0;">
-    <li> - Suggest improvements</li>
-    <li>- Share resources</li>
-    <li>- Provide feedback</li>
-    <li>- Connect for collaboration</li>
+    <li>Suggest improvements</li>
+    <li>Share resources</li>
+    <li>Provide feedback</li>
+    <li>Connect for collaboration</li>
   </ul>
 </div> 
 </div> 
