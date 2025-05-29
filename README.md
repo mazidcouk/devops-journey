@@ -19,30 +19,30 @@
 </div>
 
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <h3>Connect With Me</h3>
 </div>
 
 
-<div align="center" style="margin: 2rem 0;">
-  <a href="https://linkedin.com/in/mazidcouk" style="text-decoration: none; margin: 0 10px;">
+<div align="left" style="margin: 2rem 0;">
+  <a href="https://linkedin.com/in/mazidcouk" style="text-decoration: none; margin: 0 1px;">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/mazidcouk" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://medium.com/mazidcouk" style="text-decoration: none; margin: 0 1px;">
     <img src="https://img.shields.io/badge/medium-0077B5?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
   </a>
-  <a href="mailto:hello@mazid.co.uk" style="text-decoration: none; margin: 0 10px;">
+  <a href="mailto:hello@mazid.co.uk" style="text-decoration: none; margin: 0 1px;">
     <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<div style="text-align: center;">
+<div style="text-align: left;">
   <h3>Tech Stack</h3>
 </div>
 
 
 
-<div align="center" style="margin: 2rem 0;">
+<div align="left" style="margin: 2rem 0;">
   <img src="https://img.shields.io/badge/AWS-0077B5?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-0077B5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
@@ -230,7 +230,7 @@
   "The journey of a thousand miles begins with a single step." - Lao Tzu
 </div>
 
-<div align="center" style="margin: 2rem 0;">
+<div align="left" style="margin: 2rem 0;">
   <h3>Contributing</h3>
   <p>Feel free to:</p>
   <ul style="list-style-type: none; padding: 0;">
