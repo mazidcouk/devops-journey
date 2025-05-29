@@ -62,7 +62,7 @@
 
 <br/>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=mazidcouk&show_icons=true&theme=default&title_color=0077B5&text_color=0077B5&icon_color=0077B5&hide_border=true&custom_title=GitHub%20Stats" alt="GitHub Stats" width="80%" />
   <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mazidcouk&theme=default&hide_border=true&stroke=0077B5&custom_title=GitHub%20Streak" alt="GitHub Streak" width="80%" />
@@ -70,7 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazidcouk&layout=compact&theme=default&title_color=0077B5&text_color=0077B5&hide_border=true&custom_title=Top%20Languages" alt="Top Languages" width="80%" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="left" style="margin-top: 20px;">
   <img src="https://github-profile-trophy.vercel.app/?username=mazidcouk&theme=default&title_color=0077B5&text_color=0077B5&row=1&no-frame=true" alt="GitHub Trophies" width="80%" />
 </div>
 
