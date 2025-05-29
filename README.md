@@ -6,9 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mazid;DevOps+Engineer;Cloud+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center" style="margin: 1rem 0;">
+<br/>
+
+<div align="left" style="margin: 1rem 0;">
   <img src="https://komarev.com/ghpvc/?username=mazidcouk&label=Profile%20views&color=0077B5&style=flat" alt="Profile Views" />
 </div>
+
+<br/>
 
 <div style="background-color: #f8f9fa; padding: 2rem; border-radius: 10px; margin: 2rem 0; color: #0077B5;">
   <ul style="list-style-type: none; padding: 0;">
@@ -232,6 +236,7 @@
 
 <div align="left" style="margin: 2rem 0;">
   <h3>Contributing</h3>
+
   <p>Feel free to:</p>
   <ul style="list-style-type: none; padding: 0;">
     <li>Suggest improvements</li>
