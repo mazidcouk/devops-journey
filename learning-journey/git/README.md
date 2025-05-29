@@ -12,8 +12,8 @@ This directory contains learning materials and exercises for Git version control
 - Viewing history
 
 ### 2. Branching & Merging
-- Branch creation
-- Branch switching
+- Branch creation:  git branch Update/README, git status
+- Branch switching: git checkout Update/README, git status
 - Merge operations
 - Conflict resolution
 - Branch management
