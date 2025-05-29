@@ -13,7 +13,17 @@ This directory contains learning materials and exercises for Git version control
 
 ### 2. Branching & Merging
 - Branch creation:  git branch Update/README, git status
-- Branch switching: git checkout Update/README, git status
+- Branch switching: 
+cd into repo "git"
+git checkout Update/README
+git status
+make chages to the readme.md file
+git status
+git add README.md
+git status
+git commit -m "Update lessons 6-10 notes with commands"
+git push
+git push --set-upstream origin Update/README
 - Merge operations
 - Conflict resolution
 - Branch management
