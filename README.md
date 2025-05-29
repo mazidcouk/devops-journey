@@ -1,6 +1,6 @@
 <!-- Banner or header image -->
 <p align="center">
-  <img src="https://github.com/mazidcouk/devops-journey/blob/master/resources/mazid-rahman.png" alt="banner" />
+  <img src="https://github.com/mazidcouk/devops-journey/blob/master/resources/Mazid-Rahman.png" alt="banner" />
 </p>
 
 <div align="center">
