@@ -56,9 +56,9 @@
   <img src="https://img.shields.io/badge/Kubernetes-0077B5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Linux-0077B5?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-0077B5?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github-actions&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Terraform-0077B5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-0077B5?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+  <img src="https://img.shields.io/badge/cicd-0077B5?style=for-the-badge&logo=cicd&logoColor=white" alt="cicd" />
 </div>
 
 <br/>
