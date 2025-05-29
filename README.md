@@ -2,6 +2,10 @@
   <img src="https://github.com/mazidcouk/devops-journey/blob/master/resources/Mazid-Rahman.png" alt="banner" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
 </div>
 
+<br/>
+
+<br/>
+
 <div align="center" style="margin: 2rem 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mazid;DevOps+Engineer;Cloud+Enthusiast" alt="Typing SVG" />
 </div>
