@@ -6,7 +6,7 @@ This directory contains learning materials and exercises for Git version control
 
 ### 1. Git Basics
 - Installation and setup
-- Basic commands: cd into Repo, git add README.md, git commit -m "Updated RREADME.md file", git status, git push, git pull
+- Basic commands: cd into Repo, git add README.md, git status, git commit -m "Update git lessons 1-5 with common commands",git status, git push, git pull
 - Repository creation
 - Staging and committing
 - Viewing history
