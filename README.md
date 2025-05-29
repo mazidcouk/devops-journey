@@ -53,10 +53,9 @@
 <div align="left" style="margin: 2rem 0;">
   <img src="https://img.shields.io/badge/AWS-0077B5?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-0077B5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Linux-0077B5?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-0077B5?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/GitHub-0077B5?style=for-the-badge&logo=github-actions&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-0077B5?style=for-the-badge&logo=github-actions&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Terraform-0077B5?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/cicd-0077B5?style=for-the-badge&logo=cicd&logoColor=white" alt="cicd" />
 </div>
