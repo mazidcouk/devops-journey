@@ -29,13 +29,13 @@
 
 
 <div align="left" style="margin: 2rem 0;">
-  <a href="https://linkedin.com/in/mazidcouk" style="text-decoration: none; margin: 0 1px;">
+  <a href="https://linkedin.com/in/mazidcouk" style="text-decoration: none; margin: 0 0px;">
     <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://medium.com/mazidcouk" style="text-decoration: none; margin: 0 1px;">
+  <a href="https://medium.com/mazidcouk" style="text-decoration: none; margin: 0 0px;">
     <img src="https://img.shields.io/badge/medium-0077B5?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
   </a>
-  <a href="mailto:hello@mazid.co.uk" style="text-decoration: none; margin: 0 1px;">
+  <a href="mailto:hello@mazid.co.uk" style="text-decoration: none; margin: 0 0px;">
     <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
