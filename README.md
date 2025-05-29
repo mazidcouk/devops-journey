@@ -1,6 +1,6 @@
 <!-- Banner or header image -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner-image.png" alt="banner" />
+  <img src="https://github.com/mazidcouk/devops-journey/blob/master/resources/Mazid-Rahman.png" alt="banner" />
 </p>
 
 <div align="center">
@@ -91,10 +91,9 @@ Feel free to:
 <br />
 
 <div align="left">
-  <p>This repository documents my journey from a complete beginner to becoming a DevOps Engineer. I'm sharing my learning process, challenges, and achievements to help others who are on a similar path.</p>
+  <p>This repository documents my journey from a complete beginner to becoming a DevOps Engineer. I'm sharing my learning process, challenges, and achievements.</p>
 </div>
 
-<br />
 
 ### Learning Schedule
 
@@ -264,6 +263,7 @@ Feel free to:
   <li>[ ] Security and RBAC</li>
 </ul>
 
+<br />
 
 ### Progress Tracking
 
