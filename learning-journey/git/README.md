@@ -9,21 +9,35 @@ This directory contains learning materials and exercises for Git version control
 - Basic commands: cd into Repo, git add README.md, git status, git commit -m "Update git lessons 1-5 with common commands",git status, git push, git pull
 - Repository creation
 - Staging and committing
-- Viewing history
+- Viewing history: history
 
 ### 2. Branching & Merging
-- Branch creation:  git branch Update/README, git status
+- Branch creation: master baranch Devops-journey
+git branch Update/README
+git status (still will be in the main branch)
 - Branch switching: 
-cd into repo "git"
 git checkout Update/README
-git status
-make chages to the readme.md file
+git status (it will be on branch Update/README)
+make changes to the README.md file
 git status
 git add README.md
 git status
 git commit -m "Update lessons 6-10 notes with commands"
+git status
 git push
 git push --set-upstream origin Update/README
+
+
+github - Manual merger into master branch: 
+git pull origin master
+git checkout master
+git merge Update/README
+git push -u origin master
+
+git status (you'll be still on branch Update/Readme)
+git checkout master
+git pull 
+
 - Merge operations
 - Conflict resolution
 - Branch management
