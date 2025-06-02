@@ -33,7 +33,7 @@ awk '{print $1}' file  # Pattern scanning and processing
 ```
 
 ### System Information
-Monitor and understand your system:
+Monitor and understand your system
 ```bash
 uname -a              # System information
 df -h                 # Disk space usage
@@ -70,21 +70,21 @@ ls -l             # View permissions
 ```
 
 ### Ownership
-Manage file ownership and groups:
+Manage file ownership and groups
 ```bash
 chown user:group file    # Change owner and group
 chgrp group file         # Change group only
 ```
 
 ### Links
-Two types of links in Linux:
+Two types of links in Linux
 ```bash
 ln -s target link_name   # Create symbolic link
 ln target link_name      # Create hard link
 ```
 
 ### Mount Points
-Manage storage devices:
+Manage storage devices
 ```bash
 mount /dev/sda1 /mnt    # Mount a device
 umount /mnt             # Unmount a device
@@ -94,7 +94,7 @@ df -h                   # Show mounted filesystems
 ## 3. User Management
 
 ### User Accounts
-Create and manage user accounts:
+Create and manage user accounts
 ```bash
 useradd username        # Create new user
 passwd username         # Set password
@@ -102,7 +102,7 @@ userdel username        # Delete user
 ```
 
 ### Groups
-Manage user groups:
+Manage user groups
 ```bash
 groupadd groupname      # Create new group
 usermod -aG group user  # Add user to group
@@ -110,13 +110,13 @@ groupdel groupname      # Delete group
 ```
 
 ### Permissions
-Understanding permission types:
+Understanding permission types
 - Read (r) = 4
 - Write (w) = 2
 - Execute (x) = 1
 
 ### sudo Access
-Configure administrative privileges:
+Configure administrative privileges
 ```bash
 visudo                 # Edit sudoers file
 sudo command           # Run command as superuser
@@ -139,7 +139,7 @@ ps aux                 # Process status
 ```
 
 ### Job Control
-Manage background processes:
+Manage background processes
 ```bash
 command &              # Run in background
 fg %job_number         # Bring to foreground
@@ -147,7 +147,7 @@ bg %job_number         # Continue in background
 ```
 
 ### Service Management
-Control system services:
+Control system services
 ```bash
 systemctl start service    # Start a service
 systemctl stop service     # Stop a service
@@ -155,7 +155,7 @@ systemctl status service   # Check service status
 ```
 
 ### Systemd
-Modern init system:
+Modern init system
 ```bash
 systemctl list-units      # List all units
 systemctl enable service  # Enable service at boot
@@ -163,7 +163,7 @@ systemctl disable service # Disable service at boot
 ```
 
 ### Logs
-System logging:
+System logging
 ```bash
 journalctl              # View system logs
 tail -f /var/log/syslog # Monitor log file
@@ -172,7 +172,7 @@ tail -f /var/log/syslog # Monitor log file
 ## 5. Shell Scripting
 
 ### Basic Scripting
-Create executable scripts:
+Create executable scripts
 ```bash
 #!/bin/bash
 # This is a comment
@@ -180,14 +180,14 @@ echo "Hello, World!"
 ```
 
 ### Variables
-Working with variables:
+Working with variables
 ```bash
 name="John"
 echo "Hello, $name"
 ```
 
 ### Control Structures
-Conditional statements and loops:
+Conditional statements and loops
 ```bash
 if [ condition ]; then
     commands
@@ -203,7 +203,7 @@ done
 ```
 
 ### Functions
-Create reusable code blocks:
+Create reusable code blocks
 ```bash
 function_name() {
     local var="local variable"
