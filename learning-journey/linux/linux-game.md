@@ -47,8 +47,7 @@ cat ./-
 - Understanding file permissions
 
 ## Level 2: 
-ssh bandit2@bandit.labs.overthewire.org -p 2220 
-263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
 ### Task
 Find the password in a file with spaces in its name.
 
@@ -67,8 +66,7 @@ cat spaces\ in\ this\ filename
 - File path manipulation
 
 ## Level 3
-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
-ssh bandit3@bandit.labs.overthewire.org -p 2220
+
 ### Task
 Find the password in a hidden file.
 
@@ -83,8 +81,6 @@ Find the password in a hidden file.
 - Understanding file visibility in Linux
 
 ## Level 4
-2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
-ssh bandit4@bandit.labs.overthewire.org -p 2220
 
 ### Task
 Find the password in a human-readable file.
@@ -106,8 +102,7 @@ cat ./-file07
 - Using the `file` commandcd 
 
 ## Level 5
-4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
-ssh bandit5@bandit.labs.overthewire.org -p 2220
+
 
 ### Task
 Find the password in a file that is:
@@ -128,8 +123,6 @@ find . -type f -size 1033c -not -executable
 - File permissions and executability
 
 ## Level 6
-HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
-ssh bandit6@bandit.labs.overthewire.org -p 2220
 
 ### Task
 Find the password in a file that is:
@@ -150,8 +143,7 @@ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
 - Advanced `find` command usage
 
 ## Level 7
-morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
-ssh bandit7@bandit.labs.overthewire.org -p 2220
+
 
 ### Task
 Find the password next to the word "millionth".
@@ -168,8 +160,7 @@ grep "millionth" data.txt
 - Working with large files
 
 ## Level 8
- dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
-ssh bandit8@bandit.labs.overthewire.org -p 2220
+
 
 ### Task
 Find the password that occurs only once in the file.
@@ -187,8 +178,7 @@ sort data.txt | uniq -u
 - Command piping
 
 ## Level 9
-4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
-ssh bandit9@bandit.labs.overthewire.org -p 2220
+
 
 ### Task
 Find the password in a file with human-readable strings.
@@ -205,8 +195,7 @@ strings data.txt | grep "=="
 - Pattern matching in binary data
 
 ## Level 10
-FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
-ssh bandit10@bandit.labs.overthewire.org -p 2220
+
 ### Task
 Find the password in a base64 encoded file.
 
@@ -222,8 +211,7 @@ base64 -d data.txt
 - Using the `base64` command
 
 ## Level 11
-dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
-ssh bandit11@bandit.labs.overthewire.org -p 2220
+
 ### Task
 Find the password in a file with rotated characters.
 
@@ -239,8 +227,7 @@ cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
 - Text transformation
 
 ## Level 12
-7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
-ssh bandit12@bandit.labs.overthewire.org -p 2220
+
 ### Task
 Find the password in a hexdump file.
 
@@ -321,8 +308,7 @@ cat data
 - Using `xxd` command
 
 ## Level 13
-FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
-ssh bandit13@bandit.labs.overthewire.org -p 2220
+
 ### Task
 Find the password in a file with multiple compression types.
 
