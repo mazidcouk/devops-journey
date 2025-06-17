@@ -1,6 +1,6 @@
 # Essential Linux Commands: A DevOps Engineer's Guide to System Mastery
 
-*As a DevOps engineer you'll find that mastering these fundamental Linux commands is crucial for efficient system administration and automation. Let's dive into the most important command categories that every system administrator and DevOps professional should know.*
+*As a DevOps engineer you'll find that mastering these fundamental Linux commands is crucial for efficient system administration and automation. Let's look into some of the  most important command categories that every system administrator and DevOps professional should know.*
 
 ## 1. File System Management 
 
