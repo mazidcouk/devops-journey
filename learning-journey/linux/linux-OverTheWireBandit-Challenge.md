@@ -317,7 +317,7 @@ The password for the next level is stored in /etc/bandit_pass/bandit14 and can o
 2. Use commands:
 ```bash
 ssh -i sshkey.private -p 2220 bandit14@localhost
-
+cat /etc/bandit_pass/bandit14
 ```
 
 ### What You'll Learn
@@ -350,16 +350,61 @@ The password for the next level can be retrieved by submitting the password of t
 
 ### Solution
 1. ssh bandit15@bandit.labs.overthewire.org -p 2220
-2. Use `openssl` to connect:
+cat /etc/bandit_pass/bandit15
+2. Use `openssl or ncat` to connect:
 ```bash
 openssl s_client -connect localhost:30001
+or 
+ncat --ssl localhost 30001
 ```
 3. Enter the current level's password
 
 ### What You'll Learn
 - SSL/TLS connections
-- Using `openssl`
+- Using `openssl and ncat`
 - Secure communication
 
 
+level 16
+ssh bandit16@bandit.labs.overthewire.org -p 2220
 
+find the current passsword 
+cat /etc/bandit_pass/bandit16
+
+use this to find the ipen ports in localhost 
+nmap localhost -p 31000-32000
+
+use this to acces the open port 
+ncat --ssl localhost 31790
+
+save private key in desktop and anem it bandit-key
+-----BEGIN RSA PRIVATE KEY-----
+
+chnage permission 
+chmod 400 bandit-key
+
+ssh -i bandit-key bandit17@bandit.labs.overthewire.org -p 2220
+
+
+level 17 
+task
+
+use this command to find new pass 
+diff passwords.old passwords.new
+
+
+
+ssh bandit18@bandit.labs.overthewire.org -p 2220 
+level 18
+task
+
+use 
+ssh -t ssh bandit18@bandit.labs.overthewire.org -p 2220 
+ls
+cat readme
+
+level 19
+task
+
+use commad 
+ls
